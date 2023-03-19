@@ -2,11 +2,11 @@
 
 
 ## TASK
-### Building a model that can summarize a long piece of text into a shorter one while maintaining its meaning and important information.
+#### Building a model that can summarize a long piece of text into a shorter one while maintaining its meaning and important information.
 
 
 ## DATASET
-    Andrew Huberman Podcast Transcripts | 95 Episodes
+#### Andrew Huberman Podcast Transcripts | 95 Episodes
 
     ------------------------
     Timestamps | Transcripts
@@ -16,11 +16,11 @@
 
 
 ## PREPROCESSING
-    Before performing text summarization, it is important to preprocess the text data. This can involve tasks such as lowercasing, removing stop words, stemming or lemmatization, and tokenization. Also the datasets have to be split into shorter ones and categorized based on the content for each episode.
+#### Before performing text summarization, it is important to preprocess the text data. This can involve tasks such as lowercasing, removing stop words, stemming or lemmatization, and tokenization. Also the datasets have to be split into shorter ones and categorized based on the content for each episode.
 
 
 ## TECHNIQUES
-    Abstractive Summarization: This technique involves generating a summary that is not simply a subset of the original text, but rather a new text that conveys the most important information in a concise and coherent manner. Abstractive summarization algorithms use deep learning models such as neural networks to generate summaries.
+#### Abstractive Summarization: This technique involves generating a summary that is not simply a subset of the original text, but rather a new text that conveys the most important information in a concise and coherent manner. Abstractive summarization algorithms use deep learning models such as neural networks to generate summaries.
 
 
 ## ARCHITECTURE
