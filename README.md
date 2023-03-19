@@ -15,7 +15,7 @@
     ------------------------
 
 ### Timestams Dataset
-00:00:00 Endurance: Benefits, Mechanics & Breathing 
+00:00:00 Endurance: Benefits, Mechanics & Breathing\n
 00:07:30 Tool: “Exercise Snacks”
 00:14:21 Momentous, Levels, LMNT
 00:18:01 Endurance Categories
