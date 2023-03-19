@@ -15,16 +15,11 @@
     ------------------------
 
 ### Timestams Dataset
-00:00:00 Endurance: Benefits, Mechanics & Breathing\n
-00:07:30 Tool: “Exercise Snacks”
-00:14:21 Momentous, Levels, LMNT
-00:18:01 Endurance Categories
-00:22:16 Fat Loss & Respiration; Carbon Cycles & Storage, Metabolism
-00:33:08 Exhalation Rates, Exercise & Fat Loss; Calories 
-00:41:47 Cardiovascular Adaptations, Cardiac Output & Maximum Heart Rate
-00:47:03 AG1 (Athletic Greens)
-00:47:55 Excess Post-Exercise Consumption (EPOC); Exercise Intensity & Fat vs. Carbohydrate Energy Utilization
-00:59:35 Tool: Training for Fat Loss, Carbohydrate Stores, Liver Glycogen & Fatigue
+![image](https://user-images.githubusercontent.com/95546224/226212278-803a9e32-94dd-4497-9c78-9f8fa42c2d9b.png)
+
+### Transcripts Dataset
+![image](https://user-images.githubusercontent.com/95546224/226212330-e87ef822-1fe5-4a61-a2a8-bb2060fcca45.png)
+
 
 ## PREPROCESSING
 #### Before performing text summarization, it is important to preprocess the text data. This can involve tasks such as lowercasing, removing stop words, stemming or lemmatization, and tokenization. Also the datasets have to be split into shorter ones and categorized based on the content for each episode.
