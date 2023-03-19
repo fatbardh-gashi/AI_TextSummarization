@@ -2,7 +2,7 @@
 
 
 ## TASK
-    Building a model that can summarize a long piece of text into a shorter one while maintaining its meaning and important information.
+### Building a model that can summarize a long piece of text into a shorter one while maintaining its meaning and important information.
 
 
 ## DATASET
